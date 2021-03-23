@@ -1,4 +1,5 @@
-### Hi there 👋
+### Building Things With The Modern Web
+Currently working on a better and faster way to easily see what NHL games are happening on any given day
 
 <!--
 **NoahVlncrt/NoahVlncrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
